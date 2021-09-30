@@ -12,17 +12,7 @@
       
 - 🌱 I’m currently learning ...
 
-      ASP.NET
-
-
-- 💞️ I’m looking for a Software Development position in Florida, USA
-
-
-- 📫 How to reach me ...
-
-      joeyteets@gmail.com
-      
-      804-295-6812
+      ASP.NET MVC5
       
 
 <!---
