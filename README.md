@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @charlesteets
+👋 Hi, I’m @charlesteets
 
 
-- 👀 I’m interested in ...
+👀 I’m interested in ...
 
       C#
       
@@ -12,7 +12,7 @@
       ASP.NET MVC5
       
       
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
       Bash
       
