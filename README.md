@@ -9,10 +9,14 @@
       
       Software Development
       
+      ASP.NET MVC5
+      
       
 - 🌱 I’m currently learning ...
 
-      ASP.NET MVC5
+      Bash
+      
+      Docker
       
 
 <!---
