@@ -4,8 +4,6 @@
 👀 I’m interested in ...
 
       C#/.NET
-                       
-      ASP.NET MVC5
       
       Unity3D
       
