@@ -1,4 +1,4 @@
-👋 Hi, I’m @charlesteets
+👋 Hi, I’m Charles Teets.
 
 
 👀 I’m interested in ...
