@@ -9,6 +9,8 @@
       
       Linux
       
+      Docker/self-hosting
+      
       
 🌱 I’m currently learning ...
 
