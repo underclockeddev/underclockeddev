@@ -1,20 +1,19 @@
 👋 Hi, I’m Charles Teets.
 
-
+---
 👀 I’m interested in ...
+- C#/.NET
+- Unity3D    
+- Linux
+- Docker/self-hosting
+      
+---      
+👨‍💼 I’m currently working on ...
+- A mobile arcade racing game [driveworld.io](https://driveworld.io) 
 
-      C#/.NET
-      
-      Unity3D
-      
-      Linux
-      
-      Docker/self-hosting
-      
-      
-🌱 I’m currently learning ...
-
-      Solidity
+---
+⌛ When I get some free time, I want to learn ...
+- WebXR
       
 <!---
 charlesteets/charlesteets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
