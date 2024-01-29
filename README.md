@@ -16,7 +16,7 @@
 - WebXR
 
 ---
-📃 Check out my personal blog/site at [teets.us](https://teets.us)
+📃 Check out my personal blog/site at ~[teets.us](https://teets.us)~ (currently unavailable because I am between homes right now and the site is self-hosted)
 
 <!---
 underclockeddev/underclockeddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
