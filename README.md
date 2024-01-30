@@ -1,5 +1,7 @@
 👋 Hi, I’m Charles
 
+[LinkedIn](https://linkedin.com/in/underclockeddev/)
+
 ---
 👀 I’m interested in ...
 - C#/.NET
