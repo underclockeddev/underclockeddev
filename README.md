@@ -8,10 +8,6 @@
 - Unity3D    
 - Linux
 - Docker/self-hosting
-      
----      
-👨‍💼 I’m currently working on ...
-- A mobile arcade racing game [driveworld.io](https://driveworld.io) 
 
 ---
 ⌛ When I get some free time, I want to learn ...
